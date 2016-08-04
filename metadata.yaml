@@ -1,0 +1,42 @@
+_repo: The-Dark-Flower_2192
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Galsworthy, John
+    alias: Sinjohn, John
+    birthdate: 1867
+    deathdate: 1933
+    gutenberg_agent_id: '850'
+    url: http://www.gutenberg.org/2009/agents/850
+    wikipedia: http://en.wikipedia.org/wiki/John_Galsworthy
+description: Covering almost 30 years in the life and loves of Mark Lennan, The Dark
+  Flower opens in 1880 with 18-year-old undergraduate Mark studying art at Oxford,
+  and ends 30 years later with Mark ostensibly happily married, yet torn between his
+  wife and a beautiful teenage girl--the last and most disturbing manifestation of
+  the "dark flower" of passion. Within a dozen pages, Galsworthy establishes his mastery
+  of compelling narrative and sketches an irresistible plot. Much of his achievement
+  lies in the mixture of pathos and humor that he derives from characters little able
+  to express their feelings. There is much else to admire, from Galsworthy's impressionistic
+  descriptions and eye for detail to the subtle symmetry he creates between his characters,
+  emphasizing the cyclical nature of the story. Published in 1913, the story also
+  holds the fascination of a world about to be transformed by war--one in which a
+  love letter could still be delivered by the hand of a discreet manservant, and the
+  residents of Piccadilly kept their horses stabled close by so that they could gallop
+  down to Richmond for fresh air.
+gutenberg_issued: '2006-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2192'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Artists -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Italy -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Dark Flower
+url: http://www.gutenberg.org/ebooks/2192
