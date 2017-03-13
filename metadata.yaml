@@ -1,5 +1,8 @@
 _repo: The-Dark-Flower_2192
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Galsworthy, John
@@ -23,6 +26,8 @@ description: Covering almost 30 years in the life and loves of Mark Lennan, The 
   love letter could still be delivered by the hand of a discreet manservant, and the
   residents of Piccadilly kept their horses stabled close by so that they could gallop
   down to Richmond for fresh air.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2192#The-Dark-Flower
 gutenberg_issued: '2006-06-14'
 gutenberg_type: Text
 identifiers:
